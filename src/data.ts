@@ -27,15 +27,6 @@ export const SQUADS = [
         members: 15,
         metrics: { cycleTime: 3.9, mttr: 0.8, frequency: 24 },
         projects: ['Analytics Dashboard v4', 'Market Intelligence AI']
-    },
-    {
-        id: 'sq-4',
-        name: 'Core Infrastructure',
-        lead: 'Elena Rodriguez',
-        status: 'Robust',
-        members: 6,
-        metrics: { cycleTime: 2.1, mttr: 0.5, frequency: 45 },
-        projects: ['Kubernetes Mesh', 'Auth Edge Layer']
     }
 ];
 
